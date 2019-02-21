@@ -5,6 +5,8 @@ import string
 import getpass 
 from hashlib import sha1
 
+# Jame修改内容
+
 # 创建网络连接
 def main():
     # 获取命令行参数
